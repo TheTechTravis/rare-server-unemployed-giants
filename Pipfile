@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 watchgod = "*"
 autopep8 = "*"
+gunicorn = "*"
 
 [dev-packages]
 
